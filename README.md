@@ -13,8 +13,6 @@
 ## 📫 How to Reach Me
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30">](https:www.linkedin.com/in/kaviyashree-g-249a2b261/)
-[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ARanjit06037457?t=YWSunqBRTyNqB4VruBaOaQ&s=09)
-
 
 ## I code in
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
