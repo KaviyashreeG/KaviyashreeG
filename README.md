@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Ranjith
+# 👋 Hi, I'm   KAVIYASHREE
 
 **BTech AI&DS Student**
 
-- 🌱 I’m currently learning **Python,C, Java, DSA**
-- 🛠️ I’m working on **AI&ML,Webdevelopment** projects
+- 🌱 I’m currently learning **Python,C, Java**
+- 🛠️ I’m working on **Data Analysis,Webdevelopment** projects
 - 💬 Ask me about **Tech**
 - 🔭 I’m interested in exploring new technologies and enhancing my coding skills
 - 📚 I’m constantly learning and looking for ways to improve
@@ -12,7 +12,7 @@
 
 ## 📫 How to Reach Me
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30">](https://www.linkedin.com/in/ranjithkumar-a-456616280/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30">](https:www.linkedin.com/in/kaviyashree-g-249a2b261/)
 [![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ARanjit06037457?t=YWSunqBRTyNqB4VruBaOaQ&s=09)
 
 
@@ -24,20 +24,20 @@
 
 ### My Codingplatforms Profile:
 
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/ranjith_a_k/)
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/gkaviyashree/)
 
 
 
-<p> <a href="https://www.geeksforgeeks.org/user/ranjith_a_k/"><img src="https://geeks-for-geeks-stats-card.vercel.app/?username=ranjith_a_k" alt="GFG stats"/></a></p>
+<p> <a href="https://www.geeksforgeeks.org/user/gkaviyashree/"><img src="https://geeks-for-geeks-stats-card.vercel.app/?username=gkaviyashree" alt="GFG stats"/></a></p>
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/ranjith_ak/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)]([https://leetcode.com/u/KAVIYA_SHREE/])
 
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ranjith_ak?theme=dark&font=Marcellus)
+![LeetCode Stats](https://leetcard.jacoblin.cool/KAVIYA_SHREE?theme=dark&font=Marcellus)
 
 
 **Happy coding!**
 
 
-[![Ranjith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ranjith2703&bg_color=171618&color=d1d4d7&line=4e9e4c&point=d3cfd3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![KAVIYASHREE's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kaviyashree2703&bg_color=171618&color=d1d4d7&line=4e9e4c&point=d3cfd3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
